@@ -1,27 +1,25 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+<h1>Sobre Mim</h1>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Olá! Meu nome é Tiago Beijo e sou um entusiasta de tecnologia, apaixonado por tecnologia. Tenho experiência com C, C++, Arduino UNO e gosto de explorar novas tecnologias, especialmente aquelas que podem impactar positivamente a sociedade.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+🚀 Áreas de Interesse
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+🔹 Segurança da Informação
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+🔹 Robótica e IoT (Arduino, ESP32)
+
+🔹 Inteligência Artificial
+
+🔹 Projetos Open Source
+
+🎓 Formação e Experiência
+
+Atualmente, estou cursando Ciência da Computação na Universidade Federal de Uberlândia. Sou técnico em Internet das Coisas pelo IFTM campus Uberlândia, onde adquiri experiências diversas, seja em robótica e eletrônica e desenvolvimentos de projetos em C.
+
+📌 Projetos Destacados
+
+🤖 Robô Inteligente: Um sistema que recebe perguntas por voz e responde utilizando um modelo de IA.
+
+🎥 Monitoramento com ESP32-CAM: Uma solução acessível para vigilância e reconhecimento de imagens.
+
+📱 Aplicativos Mobile: Desenvolvimento de apps interativos usando React Native.
